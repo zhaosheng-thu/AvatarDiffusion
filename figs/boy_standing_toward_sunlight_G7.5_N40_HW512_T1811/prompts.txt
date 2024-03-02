@@ -1,0 +1,3 @@
+prompt:photo of smart boy standing toward sunlight studio lighting, looking at the camera, dslr, ultra quality, sharp focus, tack sharp, dof, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed glossy eyes, high detailed skin, skin pores
+neg_prompt:disfigured, ugly, bad, immature, cartoon, anime, 3d, painting
+boy_standing_toward_sunlight_G7.5_N40_HW512_T1811

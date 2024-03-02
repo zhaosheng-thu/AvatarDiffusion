@@ -1,0 +1,3 @@
+prompt:a drawing of a green pokemon with red eyes
+neg_prompt:ugly
+a_green_pokemon_with_G7.5_N50_HW512_T4944
