@@ -44,6 +44,3 @@
     <p align="center">
         <img src="./res/T2I-LoRA/a_green_pokemon_with_G7.5_N50_HW512_T4832/6.png" alt="more inf" style="width:40%;" />
     </p>
-
-### Multi-View Clip
-Coming soon...
